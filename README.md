@@ -16,6 +16,11 @@
 - **Cloud:** AWS (S3, EC2, IAM, VPC, Auto Scaling, etc.)    
 - **Programming:** Python,   
 - **OS:** Linux, Ubuntu  
+## 📂 Projects Overview
+
+| Domain   | Skills          | Projects |
+|----------|-----------------|----------|
+| **Cloud**    | AWS             | |
 
 
 ---
