@@ -21,8 +21,7 @@
 | Domain   | Skills          | Projects |
 |----------|-----------------|----------|
 | **Cloud**    | AWS             | https://github.com/shraddhagiri05/AWS-Lambda-|
-                                 |  https://github.com/shraddhagiri05/3-teir-repo-|
-
+|                      |https://github.com/shraddhagiri05/3-teir-repo-|                               
 ---
 
 ⭐️ *Thanks for visiting my profile!*
