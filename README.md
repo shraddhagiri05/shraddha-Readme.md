@@ -8,8 +8,8 @@
 - 🌱 Currently learning **AWS, Linux & DevOps**  
 - 🛠️ Interested in **Cloud Projects & Open Source**  
 - 💡 Passionate about **learning & building real-world projects**  
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/<your-username>/)  
-
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/<your-username>/)
+-  
 ---
 
 ## 🛠️ Skills & Tools
@@ -21,7 +21,7 @@
 | Domain   | Skills          | Projects |
 |----------|-----------------|----------|
 | **Cloud**    | AWS             | https://github.com/shraddhagiri05/AWS-Lambda-|
-
+                                   https://github.com/shraddhagiri05/3-teir-repo
 
 ---
 
