@@ -22,7 +22,7 @@
 |----------|-----------------|----------|
 | **Cloud**    | AWS             | https://github.com/shraddhagiri05/AWS-Lambda-|
 |               |                | https://github.com/shraddhagiri05/3-teir-repo-|  
-                | DevOps         |
+|               | DevOps        |https://github.com/shraddhagiri05/mirror-repo-project
 ---
 
 ⭐️ *Thanks for visiting my profile!*
