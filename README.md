@@ -8,7 +8,7 @@
 - 🌱 Currently learning **AWS, Linux & DevOps**  
 - 🛠️ Interested in **Cloud Projects & Open Source**  
 - 💡 Passionate about **learning & building real-world projects**  
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/<your-username>/)
+- 📫 Reach me: [LinkedIn] (https://www.linkedin.com/in/<your-username>/)| [Email](shraddhagiri1223@gmail.com)
 -  
 ---
 
