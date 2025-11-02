@@ -1,4 +1,5 @@
 # Hi, I'm Shraddha 👋
+![Profile views](https://komarev.com/ghpvc/?username=shraddhagiri05&color=blue&style=flat)
 
 🎓 IT Student | 🌩️ Aspiring Cloud & DevOps Engineer | 🐧 Exploring AWS & Linux  
 
